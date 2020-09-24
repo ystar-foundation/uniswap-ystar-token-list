@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Your Star Resident",
-    "address": "0xd9a947789974bad9be77e45c2b327174a9c59d71",
+    "address": "0xD9A947789974bAD9BE77E45C2b327174A9c59D71",
     "symbol": "YSR",
     "decimals": 18,
     "chainId": 1,
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "Ystar Farming",
-    "address": "0x96f9632b25f874769969ff91219fccb6cedf26d2",
+    "address": "0x96F9632b25f874769969ff91219fCCb6ceDf26D2",
     "symbol": "YF",
     "decimals": 18,
     "chainId": 1,
